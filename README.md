@@ -16,18 +16,23 @@ _A Python-based command-line string manipulation tool for developers and enthusi
 
 ---
 ## **Requirements**
-- **Python 3.7 or later** is required to run the script. Ensure Python is installed by running:
-  ```
+
+**Python 3.7 or later** is required to run the script. Ensure Python is installed by running:
+
+  ```bash
   python3 --version
+
   ```
 ## **Installation**
 Clone the Repository
-```
+```bash
 git clone https://github.com/w3ni/PyString
-
-cd PyString
-
 ```
+
+```bash
+cd PyString
+```
+
 ---
 ## **Usage And Examples**
 **Command-line Arguments**
@@ -37,13 +42,13 @@ The PyString tool accepts the following command-line arguments:
 
 **Example 1: Basic Usage**
 
-```
+```bash
 python3 pystring.py --str "Hello World"
 ```
 
 **Example 2: Save Output to a File**
 
-```
+```bash
 python3 pystring.py --str "Hello World" --o output.txt
 ```
 
