@@ -43,13 +43,13 @@ The PyString tool accepts the following command-line arguments:
 **Example 1: Basic Usage**
 
 ```bash
-python3 pystring.py --str "Hello World"
+python3 PyString.py --str "Hello World"
 ```
 
 **Example 2: Save Output to a File**
 
 ```bash
-python3 pystring.py --str "Hello World" --o output.txt
+python3 PyString.py --str "Hello World" --o output.txt
 ```
 
 ---
